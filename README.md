@@ -5,7 +5,6 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-009&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-009" /> </p>
 
-# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali-009" alt="anjali-009" /></a> </p>
 
 - 📫 How to reach me **anjaligour.work@gmail.com**
 
