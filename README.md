@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANJALI GOUR</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India.</h3>
+<h3 align="center"> </h3>Hello! My name is Anjali Gour, and I'm excited to introduce myself as a passionate student of MBA in Data Analytics and Data Visualization. With a keen interest in uncovering insights from raw data, I have dedicated my academic journey to the captivating field of data analysis. My educational background includes a Bachelor's degree in Mathematics, which has equipped me with strong analytical skills and a solid foundation in statistical analysis, programming, and problem-solving.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-009&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-009" /> </p>
 
